@@ -1,4 +1,4 @@
-### Hi there 👋Suriya prakash R
+### Hi there 👋i'm Suriya prakash R
 
 # 💫 About Me:
 🔭 I’m currently working on IPL data sets Project<br><br>🌱 I've completed a certification program in Master Data Science from IIT-M-GUVI<br><br>💬 I’m interested in MySQL, Python, Power BI, Machine Learning
